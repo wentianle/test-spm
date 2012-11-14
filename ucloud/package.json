@@ -1,0 +1,21 @@
+{
+    "parent": "../package.json",
+    "name": "ucloud",
+    "version": "1.0.0",
+    "description": "",
+    "homepage": "",
+    "bugs": {
+        "url": ""
+    },
+    "license": "",
+    "dependencies": {
+        "jquery": "jquery/1.8.2/jquery",
+        "backbone": "backbone/0.9.2/backbone",
+        "underscore": "underscore/1.4.2/underscore",
+        "umodel": "console/umodel/1.0.0/umodel"
+    },
+    "tests": ["ucloud"],
+    "output": {
+        "ucloud.js": "."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "root":"console",
+    "dependencies": {
+        "jquery": "jquery/1.8.2/jquery",
+            "backbone": "backbone/0.9.2/backbone",
+            "underscore": "underscore/1.4.2/underscore",
+            "json": "json/1.0.2/json",
+            "es5-safe": "es5-safe/0.9.2/es5-safe"
+    },
+    "spmConfig": {
+        "build": {
+            "to": "../sea-modules/{{root}}/{{name}}/{{version}}"
+        }   
+    }
+}
