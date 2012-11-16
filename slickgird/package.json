@@ -1,0 +1,22 @@
+{
+    "name": "slickgird",
+    "version": "1.0.0",
+    "description": "",
+    "homepage": "",
+    "author": "",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "bugs": {
+        "url": ""
+    },
+    "license": "",
+    "dependencies": {
+        "jquery": "jquery/1.8.2/jquery"
+    },
+    "tests": ["slickgird"],
+    "output": {
+        "slickgird.js": "."
+    }
+}
